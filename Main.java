@@ -4,7 +4,7 @@ import java.util.Scanner;
 // Initial Commit
 //
 // Test One
-//
+// Comment One Rev 1
 //
 //
 //
@@ -17,7 +17,7 @@ public class Main {
             return 1;
         }
 
-        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
+        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //tail recursion
     }
     //
     //
