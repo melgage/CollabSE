@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 // Initial Commit
 //
-// Change One Rev 1
 //
 //
+// Change Two
 //
 
 public class Main {
