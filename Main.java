@@ -4,7 +4,7 @@ import java.util.Scanner;
 // Initial Commit
 //
 //
-// Change One Rev 1
+//
 
 public class Main {
 
@@ -14,11 +14,8 @@ public class Main {
             return 1;
         }
 
-        return fibonacciRecursion(number-1) + fibonacciRecursion(number -2); //Tail recursion
+        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //Tail recursion
     }
-    //
-    //
-	//
 	//
     // Java program for Fibonacci number using Loop.
     public static long fibonacciLoop(int number){
