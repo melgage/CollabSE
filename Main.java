@@ -4,10 +4,20 @@ import java.util.Scanner;
 // Initial Commit
 //
 //
-//
+// Change One
 //
 //
 public class Main {
+
+
+    // Recursion
+    public static long fibonacci(long number){
+        if(number == 1 || number == 2){
+            return 1;
+        }
+
+        return fibonacciRecusion(number-1) + fibonacciRecursion(number-2); //Tail recursion
+    }
 
 
 	// Java program for Fibonacci number using Loop.
@@ -25,13 +35,4 @@ public class Main {
         return fibonacci; //Fibonacci number
     }
 }
-    // Recursion
-    public static long fibonacci(long number){
-        if(number == 1 || number == 2){
-            return 1;
-        }
-
-        return fibonacciRecusion(number-1) + fibonacciRecursion(number-2); //Tail recursion
-    }
-	
 
