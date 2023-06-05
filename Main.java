@@ -8,6 +8,8 @@ import java.util.Scanner;
 // Change Three
 // Change Four
 // Cahnge Five
+// Change Six
+// Change Seven
 //
 public class Main {
 
