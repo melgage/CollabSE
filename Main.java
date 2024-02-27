@@ -4,13 +4,14 @@ import java.util.Scanner;
 // Initial Commit
 //
 // Change One
+// Change Two
 //
 //
 public class Main {
 
 
     // Recursion
-    public static long fibonacciRecusion(long number){
+    public static long fibonacciRecursion(long number){
         if(number == 1 || number == 2){
             return 1;
         }
