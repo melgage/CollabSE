@@ -4,9 +4,6 @@ import java.util.Scanner;
 // Initial Commit
 //
 //
-// Change One
-// Change Two
-//
 public class Main {
 
 
